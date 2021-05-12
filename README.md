@@ -2,11 +2,12 @@
 Among Us Mod Installer By TheSingleOneYT
 
 # Requirements
-
+```
 -Make sure you have Among Us on steam, doesn't work on Epic Games Launcher
 -Know where to find Among Us_Data
 -Everything from the zip (VERY IMPORTANT)
 (Make sure the exe is in the SAME directory (folder) the Modfolder is in)
+```
 
 # IMPORTANT
 
@@ -23,9 +24,10 @@ Want more information on the current state of Among Us modding? Check out a vide
 https://youtu.be/EI9V82z4F6Y
 
 # Extra
-
+```
 Got a texture mod of your own?
 -Go to the Modfolder directory
 -Paste in your mod and call it what the mod is (MAKE SURE IT IS A .ASSETS FILE!!)
 -Restart AMModInstaller if you have it open.
 -AMModInstaller will automatically detect the new mod and include it on the mod options list!
+```
