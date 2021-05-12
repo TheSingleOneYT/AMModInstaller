@@ -167,11 +167,11 @@ namespace AMModInstaller
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(511, 39);
+            this.label6.Location = new System.Drawing.Point(502, 39);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(105, 13);
+            this.label6.Size = new System.Drawing.Size(114, 13);
             this.label6.TabIndex = 12;
-            this.label6.Text = "AMModInstaller V3.2";
+            this.label6.Text = "AMModInstaller V3.2.1";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // ToolsButton
